@@ -53,8 +53,7 @@
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaydommati)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=github&logoColor=white)](https://getwritingdone.com)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=github&logoColor=white)](https://my-portfolio-olive-psi-69.vercel.app/)
 
 ---
 
