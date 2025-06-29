@@ -4,6 +4,10 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7EF&width=435&lines=Hey!+I'm+Pranay+Dommati;Full-Stack+Developer+%7C+AI+Builder;Building+with+Django+%2B+React;Passionate+about+Tech+%26+Education)](https://git.io/typing-svg)
+
+---
+
 ## 🚀 About Me
 
 - 👨‍💻 Passionate about building real-world, impactful projects  
