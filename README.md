@@ -28,7 +28,7 @@
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaydommati)
-🔗 [**Portfolio**](https://my-portfolio-olive-psi-69.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=briefcase&logoColor=white)](https://my-portfolio-olive-psi-69.vercel.app/)
 
 ---
 
