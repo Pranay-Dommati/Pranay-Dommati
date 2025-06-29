@@ -9,7 +9,7 @@
 - 👨‍💻 Passionate about building real-world, impactful projects  
 - 🧱 Skilled in **Django**, **React**, **Tailwind CSS**, and **REST APIs**
 - 🤖 Exploring **AI integrations** — building chatbots and intelligent systems
-- 📚 Founder of *The Students Hub* – a platform that structures free YouTube content into course-like experiences
+- 📚 Currently working on an AI-based educational project
 - 🎯 Love solving problems, building cool UIs, and automating repetitive tasks
 
 ---
