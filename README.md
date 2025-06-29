@@ -18,11 +18,8 @@
 
 ---
 
-## 📈 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pranay-Dommati&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Pranay's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pranay-Dommati&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pranay-Dommati&layout=compact&theme=tokyonight&hide=php)
 
 ---
 
