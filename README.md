@@ -26,10 +26,9 @@
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaydommati)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranaydommati/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-24292E?style=flat&logo=briefcase&logoColor=white)](https://my-portfolio-olive-psi-69.vercel.app/)
 
 ---
 
 > 🧠 *“Coding ideas into reality with passion and precision.”*
-
