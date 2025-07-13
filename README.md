@@ -33,4 +33,4 @@
 
 > 🧠 *“Coding ideas into reality with passion and precision.”*
 
-![Contributions Badge](https://img.shields.io/badge/Contributions-531-yellow?style=flat-square&logo=github)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pranay-Dommati&theme=tokyonight&hide_border=true)
