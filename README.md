@@ -33,4 +33,4 @@
 
 > 🧠 *“Coding ideas into reality with passion and precision.”*
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranay-Dommati&theme=tokyo-night&hide_border=true)
+![Contributions Badge](https://img.shields.io/badge/Contributions-531-yellow?style=flat-square&logo=github)
