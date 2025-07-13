@@ -33,3 +33,4 @@
 
 > 🧠 *“Coding ideas into reality with passion and precision.”*
 
+![Pranay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranay-Dommati&theme=tokyonight&hide_border=true)
