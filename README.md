@@ -20,7 +20,7 @@
 
 ## 📈 GitHub Stats
 
-![Pranay's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pranay-Dommati&show_icons=true&theme=tokyonight)
+![Pranay's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Pranay-Dommati&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs)
 
 ---
 
