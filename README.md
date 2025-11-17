@@ -21,11 +21,17 @@
 ## 🧠 Featured Projects
 
 ### [EasyLearnova](https://easylearnova.com) *(Private Repo)*  
-An AI-powered learning hub for school and undergraduate students that curates **free YouTube course playlists** and offers structured learning paths across boards (CBSE, SSC, ICSE) and levels (10th, 11th, 12th, Undergraduate).  
+
+![EasyLearnova Banner](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+
+An AI-powered learning hub for school and undergraduate students that curates **free YouTube course playlists** and offers structured learning paths across boards (CBSE, SSC) and levels (10th, 11th, 12th).
+
 **Key features:**  
-- Create custom courses with “Pro Learning” mode. :contentReference[oaicite:1]{index=1}  
-- Access board-specific content (e.g., 10th and 11th standard courses) with curated playlists. :contentReference[oaicite:2]{index=2}   
-**Tech stack:** Django · React · Tailwind CSS · PostgreSQL · YouTube Data API  
+- Create custom courses with “Pro Learning” mode.  
+- Access board-specific content (e.g., 10th and 11th standard courses) with curated playlists.  
+
+**Tech stack:** Django · React · Tailwind CSS · PostgreSQL · YouTube Data API
+
 
 ---
 
