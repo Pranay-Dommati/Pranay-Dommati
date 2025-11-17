@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 Featured Project
 
 ### [EasyLearnova](https://easylearnova.com) *(Private Repo)*  
 
